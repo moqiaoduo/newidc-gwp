@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "NewIDC\\Plugin\\Server\\GWP": "src/"
+            "NewIDC\\Plugin\\Server\\GWP\\": "src/"
         }
     },
     "extra": {
